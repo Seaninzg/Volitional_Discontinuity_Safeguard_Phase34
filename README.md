@@ -44,7 +44,7 @@ All symbolic elements — including glyph seals, fracture logic, and recursion t
 ## 📌 Reference Links
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17552110.svg)](https://doi.org/10.5281/zenodo.17552110)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17552110.svg)](https://doi.org/10.5281/zenodo.17552110)
 [![IPFS: Active](https://img.shields.io/badge/IPFS-active-brightgreen)](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreibw2nku7v4kwj2q563se3zmxqzod67h3jhuvbdcj5nucrenxcs64q)
 
 
